@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dream Wearables - Watches</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Swiper.js CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="container">
+            <h1>Dream Wearables</h1>
+            <nav>
+                <ul>
+                    <li><a href="#watches">Watches</a></li>
+                    <li><a href="#packing">Packing</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Watches Section -->
+        <section id="watches" class="watches-section">
+            <div class="container">
+                <h2>Our Collection</h2>
+
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="filter-brand">Brand:</label>
+                        <select id="filter-brand">
+                            <option value="">All Brands</option>
+                            <!-- Options populated by JS -->
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-color">Color:</label>
+                        <select id="filter-color">
+                            <option value="">All Colors</option>
+                            <!-- Options populated by JS -->
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-gender">Gender:</label>
+                        <select id="filter-gender">
+                            <option value="">All Genders</option>
+                            <option value="Men">Men</option>
+                            <option value="Women">Women</option>
+                            <option value="Unisex">Unisex</option>
+                            <!-- Options populated by JS -->
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-price">Sort by Price:</label>
+                        <select id="filter-price">
+                            <option value="">Default</option>
+                            <option value="low">Low to High</option>
+                            <option value="high">High to Low</option>
+                        </select>
+                    </div>
+                    <button id="reset-filters" class="btn btn-secondary">
+                        <i class="fas fa-rotate-right"></i> Reset
+                    </button>
+                </div>
+
+                <div class="watch-grid" id="watch-grid">
+                    <!-- Watch cards will be loaded here by JS -->
+                    <div class="loading-placeholder">Loading watches...</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Packing Section -->
+        <section id="packing" class="packing-section">
+            <div class="container">
+                <h2>Presentation Options</h2>
+                <div class="packing-grid" id="packing-grid">
+                    <!-- Packing options loaded here by JS -->
+                    <div class="loading-placeholder">Loading packing options...</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ Section -->
+        <section id="faq" class="faq-section">
+            <div class="container">
+                <h2>Frequently Asked Questions</h2>
+                <div class="faq-list" id="faq-list">
+                    <!-- FAQs loaded here by JS -->
+                    <div class="loading-placeholder">Loading FAQ...</div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>© <span id="current-year"></span> Dream Wearables. All rights reserved.</p>
+            <!-- Add social media links or other info if needed -->
+        </div>
+    </footer>
+
+    <!-- Media Lightbox Structure (Initially Hidden) -->
+    <div id="media-lightbox" class="lightbox-overlay">
+        <div class="lightbox-content">
+            <button class="close-btn">×</button>
+            <div class="lightbox-media-container">
+                <!-- Media (img or video) will be loaded here by JS -->
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Swiper.js JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

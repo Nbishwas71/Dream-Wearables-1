@@ -1,0 +1,453 @@
+{
+    "config": {
+        "whatsappNumber": "9153347835"
+    },
+    "watches": [
+        {
+            "id": "DW001",
+            "brand": "Rolex",
+            "title": "Luxury Chronograph",
+            "price": 250000,
+            "discountedPrice": 225000,
+            "colors": [
+                "Gold",
+                "Silver",
+                "Black Dial"
+            ],
+            "gender": "Men",
+            "offers": [
+                "new",
+                "popular"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "media/watches_video/video.mp4"
+                }
+            ]
+        },
+        {
+            "id": "DW002",
+            "brand": "Omega",
+            "title": "Diver 300m",
+            "price": 350000,
+            "discountedPrice": 325000,
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "gender": "Men",
+            "offers": [
+                "popular"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW003",
+            "brand": "Tag Heuer",
+            "title": "Carrera Sport",
+            "price": 410000,
+            "discountedPrice": 410000,
+            "colors": [
+                "Green",
+                "Silver"
+            ],
+            "gender": "Men",
+            "offers": [],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW004",
+            "brand": "Cartier",
+            "title": "Tank Must",
+            "price": 315000,
+            "discountedPrice": 295000,
+            "colors": [
+                "Silver",
+                "Gold Accent"
+            ],
+            "gender": "Women",
+            "offers": [
+                "new"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "media/watches_video/video.mp4"
+                }
+            ]
+        },
+        {
+            "id": "DW002",
+            "brand": "Omega",
+            "title": "Diver 300m",
+            "price": 350000,
+            "discountedPrice": 325000,
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "gender": "Men",
+            "offers": [
+                "popular"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW003",
+            "brand": "Tag Heuer",
+            "title": "Carrera Sport",
+            "price": 410000,
+            "discountedPrice": 410000,
+            "colors": [
+                "Green",
+                "Silver"
+            ],
+            "gender": "Men",
+            "offers": [],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW004",
+            "brand": "Cartier",
+            "title": "Tank Must",
+            "price": 315000,
+            "discountedPrice": 295000,
+            "colors": [
+                "Silver",
+                "Gold Accent"
+            ],
+            "gender": "Women",
+            "offers": [
+                "new"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "media/watches_video/video.mp4"
+                }
+            ]
+        },
+        {
+            "id": "DW001",
+            "brand": "Rolex",
+            "title": "Luxury Chronograph",
+            "price": 250000,
+            "discountedPrice": 225000,
+            "colors": [
+                "Gold",
+                "Silver",
+                "Black Dial"
+            ],
+            "gender": "Men",
+            "offers": [
+                "new",
+                "popular"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "media/watches_video/video.mp4"
+                }
+            ]
+        },
+        {
+            "id": "DW002",
+            "brand": "Omega",
+            "title": "Diver 300m",
+            "price": 350000,
+            "discountedPrice": 325000,
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "gender": "Men",
+            "offers": [
+                "popular"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW003",
+            "brand": "Tag Heuer",
+            "title": "Carrera Sport",
+            "price": 410000,
+            "discountedPrice": 410000,
+            "colors": [
+                "Green",
+                "Silver"
+            ],
+            "gender": "Men",
+            "offers": [],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW004",
+            "brand": "Cartier",
+            "title": "Tank Must",
+            "price": 315000,
+            "discountedPrice": 295000,
+            "colors": [
+                "Silver",
+                "Gold Accent"
+            ],
+            "gender": "Women",
+            "offers": [
+                "new"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "media/watches_video/video.mp4"
+                }
+            ]
+        },
+        {
+            "id": "DW002",
+            "brand": "Omega",
+            "title": "Diver 300m",
+            "price": 350000,
+            "discountedPrice": 325000,
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "gender": "Men",
+            "offers": [
+                "popular"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW003",
+            "brand": "Tag Heuer",
+            "title": "Carrera Sport",
+            "price": 410000,
+            "discountedPrice": 410000,
+            "colors": [
+                "Green",
+                "Silver"
+            ],
+            "gender": "Men",
+            "offers": [],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image.jpg"
+                }
+            ]
+        },
+        {
+            "id": "DW004",
+            "brand": "Cartier",
+            "title": "Tank Must",
+            "price": 315000,
+            "discountedPrice": 295000,
+            "colors": [
+                "Silver",
+                "Gold Accent"
+            ],
+            "gender": "Women",
+            "offers": [
+                "new"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "image",
+                    "url": "media/watches_image/image2.jpg"
+                },
+                {
+                    "type": "video",
+                    "url": "media/watches_video/video.mp4"
+                }
+            ]
+        }
+    ],
+    "packing": [
+        {
+            "name": "Normal Box",
+            "image": "images//packing//p1.jpg",
+            "description": "A simple and elegant box included with every purchase—ideal for everyday packaging."
+        },
+        {
+            "name": "Standard Box",
+            "image": "images//packing//p2.jpg",
+            "description": "A classic gift box with a refined finish—perfect for gifting or special occasions."
+        },
+        {
+            "name": "Premium Box",
+            "image": "images//packing//p3.jpg",
+            "description": "A sleek and durable travel pouch—designed for protection and convenience on the go."
+        },
+        {
+            "name": "Original Box",
+            "image": "images//packing//p4.jpg",
+            "description": "The brand’s signature packaging—stylish, protective, and designed to make a lasting impression."
+        }
+    ],
+    "faq": [
+        {
+            "question": "What is your return policy?",
+            "answer": "We offer a 30-day return policy for unused products in their original packaging. Please check our full policy page for details."
+        },
+        {
+            "question": "Do you provide international shipping?",
+            "answer": "Yes, we ship worldwide. Shipping costs and times vary based on destination and selected service. Duties and taxes may apply."
+        },
+        {
+            "question": "Are the watches authentic?",
+            "answer": "Absolutely. We are an authorized dealer or source directly from reputable suppliers. All watches are 100% authentic and come with original manufacturer warranties where applicable."
+        },
+        {
+            "question": "How does the WhatsApp Inquiry work?",
+            "answer": "Clicking the 'WhatsApp Inquiry' button will open WhatsApp on your device with a pre-filled message including the watch ID you're interested in. Send the message to connect directly with our sales team."
+        },
+        {
+            "question": "Can I customize my watch?",
+            "answer": "Customization options vary by model. Please contact us for specific requests."
+        },
+        {
+            "question": "What if I receive a damaged product?",
+            "answer": "If you receive a damaged product, please contact us within 48 hours of delivery with photos of the damage. We will arrange for a replacement or refund."
+        },
+        {
+            "question": "How do I care for my watch?",
+            "answer": "To maintain your watch, avoid exposing it to extreme temperatures, chemicals, and magnetic fields. Regularly clean the strap and case with a soft cloth."
+        }
+    ]
+}
