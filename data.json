@@ -1,453 +1,1502 @@
 {
-    "config": {
-        "whatsappNumber": "9153347835"
+  "config": {
+    "whatsappNumber": "9153347835"
+  },
+  "watches": [
+    {
+      "id": "W001A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W001A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W001A.mp4"
+        }
+      ]
     },
-    "watches": [
+    {
+      "id": "W002A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GREEN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
         {
-            "id": "DW001",
-            "brand": "Rolex",
-            "title": "Luxury Chronograph",
-            "price": 250000,
-            "discountedPrice": 225000,
-            "colors": [
-                "Gold",
-                "Silver",
-                "Black Dial"
-            ],
-            "gender": "Men",
-            "offers": [
-                "new",
-                "popular"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "media/watches_video/video.mp4"
-                }
-            ]
-        },
-        {
-            "id": "DW002",
-            "brand": "Omega",
-            "title": "Diver 300m",
-            "price": 350000,
-            "discountedPrice": 325000,
-            "colors": [
-                "Blue",
-                "Black"
-            ],
-            "gender": "Men",
-            "offers": [
-                "popular"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW003",
-            "brand": "Tag Heuer",
-            "title": "Carrera Sport",
-            "price": 410000,
-            "discountedPrice": 410000,
-            "colors": [
-                "Green",
-                "Silver"
-            ],
-            "gender": "Men",
-            "offers": [],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW004",
-            "brand": "Cartier",
-            "title": "Tank Must",
-            "price": 315000,
-            "discountedPrice": 295000,
-            "colors": [
-                "Silver",
-                "Gold Accent"
-            ],
-            "gender": "Women",
-            "offers": [
-                "new"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "media/watches_video/video.mp4"
-                }
-            ]
-        },
-        {
-            "id": "DW002",
-            "brand": "Omega",
-            "title": "Diver 300m",
-            "price": 350000,
-            "discountedPrice": 325000,
-            "colors": [
-                "Blue",
-                "Black"
-            ],
-            "gender": "Men",
-            "offers": [
-                "popular"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW003",
-            "brand": "Tag Heuer",
-            "title": "Carrera Sport",
-            "price": 410000,
-            "discountedPrice": 410000,
-            "colors": [
-                "Green",
-                "Silver"
-            ],
-            "gender": "Men",
-            "offers": [],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW004",
-            "brand": "Cartier",
-            "title": "Tank Must",
-            "price": 315000,
-            "discountedPrice": 295000,
-            "colors": [
-                "Silver",
-                "Gold Accent"
-            ],
-            "gender": "Women",
-            "offers": [
-                "new"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "media/watches_video/video.mp4"
-                }
-            ]
-        },
-        {
-            "id": "DW001",
-            "brand": "Rolex",
-            "title": "Luxury Chronograph",
-            "price": 250000,
-            "discountedPrice": 225000,
-            "colors": [
-                "Gold",
-                "Silver",
-                "Black Dial"
-            ],
-            "gender": "Men",
-            "offers": [
-                "new",
-                "popular"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "media/watches_video/video.mp4"
-                }
-            ]
-        },
-        {
-            "id": "DW002",
-            "brand": "Omega",
-            "title": "Diver 300m",
-            "price": 350000,
-            "discountedPrice": 325000,
-            "colors": [
-                "Blue",
-                "Black"
-            ],
-            "gender": "Men",
-            "offers": [
-                "popular"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW003",
-            "brand": "Tag Heuer",
-            "title": "Carrera Sport",
-            "price": 410000,
-            "discountedPrice": 410000,
-            "colors": [
-                "Green",
-                "Silver"
-            ],
-            "gender": "Men",
-            "offers": [],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW004",
-            "brand": "Cartier",
-            "title": "Tank Must",
-            "price": 315000,
-            "discountedPrice": 295000,
-            "colors": [
-                "Silver",
-                "Gold Accent"
-            ],
-            "gender": "Women",
-            "offers": [
-                "new"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "media/watches_video/video.mp4"
-                }
-            ]
-        },
-        {
-            "id": "DW002",
-            "brand": "Omega",
-            "title": "Diver 300m",
-            "price": 350000,
-            "discountedPrice": 325000,
-            "colors": [
-                "Blue",
-                "Black"
-            ],
-            "gender": "Men",
-            "offers": [
-                "popular"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW003",
-            "brand": "Tag Heuer",
-            "title": "Carrera Sport",
-            "price": 410000,
-            "discountedPrice": 410000,
-            "colors": [
-                "Green",
-                "Silver"
-            ],
-            "gender": "Men",
-            "offers": [],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image.jpg"
-                }
-            ]
-        },
-        {
-            "id": "DW004",
-            "brand": "Cartier",
-            "title": "Tank Must",
-            "price": 315000,
-            "discountedPrice": 295000,
-            "colors": [
-                "Silver",
-                "Gold Accent"
-            ],
-            "gender": "Women",
-            "offers": [
-                "new"
-            ],
-            "media": [
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "image",
-                    "url": "media/watches_image/image2.jpg"
-                },
-                {
-                    "type": "video",
-                    "url": "media/watches_video/video.mp4"
-                }
-            ]
+          "type": "image",
+          "url": "media/watches_image/W002A.jpg"
         }
-    ],
-    "packing": [
+      ]
+    },
+    {
+      "id": "W003A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
         {
-            "name": "Normal Box",
-            "image": "media/packing/p1.jpg",
-            "description": "A simple and elegant box included with every purchase—ideal for everyday packaging."
+          "type": "image",
+          "url": "media/watches_image/W003A.jpg"
         },
         {
-            "name": "Standard Box",
-            "image": "media/packing/p2.jpg",
-            "description": "A classic gift box with a refined finish—perfect for gifting or special occasions."
+          "type": "image",
+          "url": "media/watches_image/W003A1.jpg"
         },
         {
-            "name": "Premium Box",
-            "image": "media/packing/p3.jpg",
-            "description": "A sleek and durable travel pouch—designed for protection and convenience on the go."
+          "type": "image",
+          "url": "media/watches_image/W003A2.jpg"
         },
         {
-            "name": "Original Box",
-            "image": "media/packing/p4.jpg",
-            "description": "The brand’s signature packaging—stylish, protective, and designed to make a lasting impression."
+          "type": "video",
+          "url": "media/watches_video/W003A.mp4"
         }
-    ],
-    "faq": [
+      ]
+    },
+    {
+      "id": "W004A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
         {
-            "question": "What is your return policy?",
-            "answer": "We offer a 30-day return policy for unused products in their original packaging. Please check our full policy page for details."
+          "type": "image",
+          "url": "media/watches_image/W004A.jpg"
         },
         {
-            "question": "Do you provide international shipping?",
-            "answer": "Yes, we ship worldwide. Shipping costs and times vary based on destination and selected service. Duties and taxes may apply."
-        },
-        {
-            "question": "Are the watches authentic?",
-            "answer": "Absolutely. We are an authorized dealer or source directly from reputable suppliers. All watches are 100% authentic and come with original manufacturer warranties where applicable."
-        },
-        {
-            "question": "How does the WhatsApp Inquiry work?",
-            "answer": "Clicking the 'WhatsApp Inquiry' button will open WhatsApp on your device with a pre-filled message including the watch ID you're interested in. Send the message to connect directly with our sales team."
-        },
-        {
-            "question": "Can I customize my watch?",
-            "answer": "Customization options vary by model. Please contact us for specific requests."
-        },
-        {
-            "question": "What if I receive a damaged product?",
-            "answer": "If you receive a damaged product, please contact us within 48 hours of delivery with photos of the damage. We will arrange for a replacement or refund."
-        },
-        {
-            "question": "How do I care for my watch?",
-            "answer": "To maintain your watch, avoid exposing it to extreme temperatures, chemicals, and magnetic fields. Regularly clean the strap and case with a soft cloth."
+          "type": "video",
+          "url": "media/watches_video/W004A.mp4"
         }
-    ]
+      ]
+    },
+    {
+      "id": "W005A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "GOLD",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W005A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W005A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W006A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GOLD",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W006A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W006A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W007A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W007A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W007A1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W007A2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W008A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W008A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W008A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W009A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W009A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W010A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK",
+        "GREEN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W010A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W011A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W011A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W012A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GOLD",
+        "BLACK",
+        "RED",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W012A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W013A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "GOLD",
+        "BLACK",
+        "RED"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W013A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W014A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W014A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W014A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W015A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK",
+        "BLUE",
+        "RED"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W015A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W016A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK",
+        "RED"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W016A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W016A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W017A",
+      "brand": "ROLEX",
+      "title": "GMT-Master II",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GOLD",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W017A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W018A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GOLD",
+        "GREEN",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W018A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W018A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W019A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GOLD",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W019A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W019A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W020A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "GOLD",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W020A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W020A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W021A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W021A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W022A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W022A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W023A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W023A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W024A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GREEN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W024A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W025A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "GOLD",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W025A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W026A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W026A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W027A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BROWN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W027A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W027A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W028A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BROWN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W028A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W028A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W029A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "GREEN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W029A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W029A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W030A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "GOLD",
+        "GREEN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W030A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W031A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W031A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W032A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W032A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W032A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W033A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W033A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W034A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GOLD",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W034A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W034A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W035A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W035A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W036A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W036A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W037A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W037A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W038A",
+      "brand": "ROLEX",
+      "title": "Oyster Perpetual Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BROWN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W038A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W038A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W039A",
+      "brand": "ROLEX",
+      "title": "Sky-Dweller Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W039A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W040A",
+      "brand": "ROLEX",
+      "title": "Sky-Dweller Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "GREEN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W040A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W041A",
+      "brand": "ROLEX",
+      "title": "Cosmograph Daytona",
+      "price": 4999,
+      "discountedPrice": 1899,
+      "colors": [
+        "GOLD",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W041A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W042A",
+      "brand": "ROLEX",
+      "title": "Cosmograph Daytona",
+      "price": 4999,
+      "discountedPrice": 1899,
+      "colors": [
+        "SILVER",
+        "WHITE",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W042A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W042A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W043A",
+      "brand": "ROLEX",
+      "title": "Cosmograph Daytona",
+      "price": 4999,
+      "discountedPrice": 1899,
+      "colors": [
+        "SILVER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W043A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W044A",
+      "brand": "ROLEX",
+      "title": "Cosmograph Daytona",
+      "price": 4999,
+      "discountedPrice": 1899,
+      "colors": [
+        "GOLD",
+        "SILVER",
+        "GREEN",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W044A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W045A",
+      "brand": "ROLEX",
+      "title": "Cosmograph Daytona",
+      "price": 4999,
+      "discountedPrice": 1899,
+      "colors": [
+        "GOLD",
+        "GREEN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W045A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W046A",
+      "brand": "ROLEX",
+      "title": "Sky-Dweller Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "GOLD",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W046A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W047A",
+      "brand": "ROLEX",
+      "title": "Sky-Dweller Day-Date",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W047A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W048A",
+      "brand": "ROLEX",
+      "title": "Oyster Vintage",
+      "price": 3299,
+      "discountedPrice": 1399,
+      "colors": [
+        "BLACK",
+        "COPPER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W048A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W049A",
+      "brand": "ROLEX",
+      "title": "Oyster Vintage",
+      "price": 3299,
+      "discountedPrice": 1399,
+      "colors": [
+        "BLACK",
+        "GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W049A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W050A",
+      "brand": "ROLEX",
+      "title": "Oyster perpetual Automatic",
+      "price": 4999,
+      "discountedPrice": 1999,
+      "colors": [
+        "GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W050A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W051A",
+      "brand": "ROLEX",
+      "title": "Air-King",
+      "price": 4999,
+      "discountedPrice": 1999,
+      "colors": [
+        "GOLD",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W051A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W052A",
+      "brand": "ROLEX",
+      "title": "Air-King",
+      "price": 4999,
+      "discountedPrice": 1999,
+      "colors": [
+        "GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W052A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W053A",
+      "brand": "ROLEX",
+      "title": "Submariner",
+      "price": 2999,
+      "discountedPrice": 1399,
+      "colors": [
+        "GOLD",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W053A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W054A",
+      "brand": "ROLEX",
+      "title": "Submariner",
+      "price": 2999,
+      "discountedPrice": 1399,
+      "colors": [
+        "SILVER",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W054A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W055A",
+      "brand": "ROLEX",
+      "title": "Submariner",
+      "price": 2999,
+      "discountedPrice": 1399,
+      "colors": [
+        "GOLD",
+        "SILVER",
+        "BLUE",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W055A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W056A",
+      "brand": "ROLEX",
+      "title": "Milgauss",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W056A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W057A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK",
+        "ROSE GOLD",
+        "DUAL TONE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W057A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W058A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD",
+        "DUAL TONE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W058A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W059A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W059A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W060A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W060A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W061A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "SILVER",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W061A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W062A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD",
+        "GREEN",
+        "DUAL TONE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W062A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W063A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W063A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W064A",
+      "brand": "ROLEX",
+      "title": "Lady-Datejust",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W064A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W065A",
+      "brand": "ROLEX",
+      "title": "Acnos",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W065A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W066A",
+      "brand": "ROLEX",
+      "title": "Acnos",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD",
+        "DUAL TONE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W066A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W067A",
+      "brand": "ROLEX",
+      "title": "Acnos",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W067A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W068A",
+      "brand": "ROLEX",
+      "title": "Acnos",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W068A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W069A",
+      "brand": "ROLEX",
+      "title": "Acnos",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W069A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W070A",
+      "brand": "ROLEX",
+      "title": "Acnos",
+      "price": 3999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W070A.jpg"
+        }
+      ]
+    }
+  ],
+  "packing": [
+    {
+      "name": "Normal Box",
+      "image": "media/packing/p1.jpg",
+      "description": "A simple and elegant box included with every purchase\u2014ideal for everyday packaging."
+    },
+    {
+      "name": "Standard Box",
+      "image": "media/packing/p2.jpg",
+      "description": "A classic gift box with a refined finish...perfect for gifting or special occasions."
+    },
+    {
+      "name": "Premium Box",
+      "image": "media/packing/p3.jpg",
+      "description": "A sleek and durable travel pouch...designed for protection and convenience on the go."
+    },
+    {
+      "name": "Original Box",
+      "image": "media/packing/p4.jpg",
+      "description": "The brands signature packaging...stylish, protective, and designed to make a lasting impression."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is your return policy?",
+      "answer": "We offer a 30-day return policy for unused products in their original packaging. Please check our full policy page for details."
+    },
+    {
+      "question": "Do you provide international shipping?",
+      "answer": "Yes, we ship worldwide. Shipping costs and times vary based on destination and selected service. Duties and taxes may apply."
+    },
+    {
+      "question": "Are the watches authentic?",
+      "answer": "Absolutely. We are an authorized dealer or source directly from reputable suppliers. All watches are 100% authentic and come with original manufacturer warranties where applicable."
+    },
+    {
+      "question": "How does the WhatsApp Inquiry work?",
+      "answer": "Clicking the 'WhatsApp Inquiry' button will open WhatsApp on your device with a pre-filled message including the watch ID you're interested in. Send the message to connect directly with our sales team."
+    },
+    {
+      "question": "Can I customize my watch?",
+      "answer": "Customization options vary by model. Please contact us for specific requests."
+    },
+    {
+      "question": "What if I receive a damaged product?",
+      "answer": "If you receive a damaged product, please contact us within 48 hours of delivery with photos of the damage. We will arrange for a replacement or refund."
+    },
+    {
+      "question": "How do I care for my watch?",
+      "answer": "To maintain your watch, avoid exposing it to extreme temperatures, chemicals, and magnetic fields. Regularly clean the strap and case with a soft cloth."
+    }
+  ]
 }
