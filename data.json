@@ -1445,6 +1445,952 @@
           "url": "media/watches_image/W070A.jpg"
         }
       ]
+    },
+    {
+      "id": "W071A",
+      "brand": "ROLEX",
+      "title": "Yacht-Master",
+      "price": 3299,
+      "discountedPrice": 1399,
+      "colors": [
+        "BLACK",
+        "ROSE GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W071A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W071A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W072A",
+      "brand": "ROLEX",
+      "title": "Yacht-Master",
+      "price": 3299,
+      "discountedPrice": 1399,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W072A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W072A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W073A",
+      "brand": "ROLEX",
+      "title": "Yacht-Master",
+      "price": 3299,
+      "discountedPrice": 1399,
+      "colors": [
+        "BLACK",
+        "SILVER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W073A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W073A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W074A",
+      "brand": "ROLEX",
+      "title": "Tiger Eye",
+      "price": 5999,
+      "discountedPrice": 1799,
+      "colors": [
+        "BLACK",
+        "GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W074A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W074A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W075A",
+      "brand": "ROLEX",
+      "title": "Tiger Eye",
+      "price": 5999,
+      "discountedPrice": 1799,
+      "colors": [
+        "BLACK",
+        "SILVER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W075A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W075A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W076A",
+      "brand": "ROLEX",
+      "title": "Tiger Eye",
+      "price": 5999,
+      "discountedPrice": 1799,
+      "colors": [
+        "BLACK",
+        "ROSE GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W076A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W077A",
+      "brand": "FOSSIL",
+      "title": "Neutra Chronograph",
+      "price": 6499,
+      "discountedPrice": 2299,
+      "colors": [
+        "BLACK",
+        "GOLD"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W077A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W077A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W078A",
+      "brand": "FOSSIL",
+      "title": "Neutra Chronograph",
+      "price": 6499,
+      "discountedPrice": 2299,
+      "colors": [
+        "BROWN",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W078A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W078A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W079A",
+      "brand": "FOSSIL",
+      "title": "Neutra Chronograph",
+      "price": 6499,
+      "discountedPrice": 2299,
+      "colors": [
+        "BROWN",
+        "WHITE",
+        "SILVER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W079A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W079A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W080A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline Sun Moon",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W080A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W080A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W081A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline Sun Moon",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BROWN"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W081A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W081A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W082A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline Sun Moon",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "COPPER",
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W082A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W082A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W083A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline Sun Moon",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "COPPER",
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W083A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W084A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W084A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W085A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W085A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W086A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "WHITE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W086A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W087A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "COPPER",
+        "BLACK",
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W087A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W088A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "SILVER",
+        "ROSE GOLD",
+        "WHITE",
+        "DUAL TONE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W088A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W089A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "COPPER",
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W089A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W090A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W090A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W091A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "WHITE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W091A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W092A",
+      "brand": "FOSSIL",
+      "title": "Jacqueline",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W092A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W093A",
+      "brand": "FOSSIL",
+      "title": "Violet",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "GREEN"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W093A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W093A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W094A",
+      "brand": "FOSSIL",
+      "title": "Violet",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "BLACK"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W094A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W094A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W095A",
+      "brand": "FOSSIL",
+      "title": "Violet",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W095A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W095A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W096A",
+      "brand": "FOSSIL",
+      "title": "Violet",
+      "price": 6999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ROSE GOLD",
+        "WHITE"
+      ],
+      "gender": "FEMALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W096A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W096A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W097A",
+      "brand": "FOSSIL",
+      "title": "Machine Chronograph",
+      "price": 3999,
+      "discountedPrice": 1399,
+      "colors": [
+        "BROWN",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W097A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W097A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W098A",
+      "brand": "FOSSIL",
+      "title": "Digital",
+      "price": 4999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ORANGE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W098A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W099A",
+      "brand": "FOSSIL",
+      "title": "Digital",
+      "price": 4999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ORANGE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W099A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W100A",
+      "brand": "FOSSIL",
+      "title": "Digital",
+      "price": 4999,
+      "discountedPrice": 1499,
+      "colors": [
+        "ORANGE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W100A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W101A",
+      "brand": "FOSSIL",
+      "title": "Digital",
+      "price": 4999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W101A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W101A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W102A",
+      "brand": "FOSSIL",
+      "title": "Digital",
+      "price": 4999,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLUE",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W102A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W103A",
+      "brand": "FOSSIL",
+      "title": "Grant",
+      "price": 6499,
+      "discountedPrice": 1999,
+      "colors": [
+        "GOLD",
+        "SILVER",
+        "BLACK",
+        "DUAL TONE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W103A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W104A",
+      "brand": "FOSSIL",
+      "title": "Grant",
+      "price": 6499,
+      "discountedPrice": 1999,
+      "colors": [
+        "SILVER",
+        "WHITE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W104A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W105A",
+      "brand": "FOSSIL",
+      "title": "Grant",
+      "price": 6499,
+      "discountedPrice": 1999,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W105A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W105A1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W105A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W106A",
+      "brand": "FOSSIL",
+      "title": "Grant",
+      "price": 6499,
+      "discountedPrice": 1999,
+      "colors": [
+        "BLACK",
+        "COPPER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W106A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W106A1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W106A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W107A",
+      "brand": "FOSSIL",
+      "title": "Grant",
+      "price": 6499,
+      "discountedPrice": 1999,
+      "colors": [
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W107A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W107A1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W107A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W108A",
+      "brand": "FOSSIL",
+      "title": "Grant",
+      "price": 6499,
+      "discountedPrice": 1999,
+      "colors": [
+        "BLACK",
+        "SILVER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W108A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W108A1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W108A.mp4"
+        }
+      ]
+    },
+    {
+      "id": "W109A",
+      "brand": "FOSSIL",
+      "title": "Commuter",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W109A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W109A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W110A",
+      "brand": "FOSSIL",
+      "title": "Commuter",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLUE",
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W110A.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W111A",
+      "brand": "FOSSIL",
+      "title": "Commuter",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "BROWN"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W111A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W111A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W112A",
+      "brand": "FOSSIL",
+      "title": "Commuter",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLUE"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W112A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W112A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W113A",
+      "brand": "FOSSIL",
+      "title": "Commuter",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W113A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W113A1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W114A",
+      "brand": "FOSSIL",
+      "title": "Commuter",
+      "price": 3499,
+      "discountedPrice": 1499,
+      "colors": [
+        "BLACK",
+        "SILVER"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W114A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W114A1.jpg"
+        }
+      ]
     }
   ],
   "packing": [
