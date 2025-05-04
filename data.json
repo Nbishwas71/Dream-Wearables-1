@@ -2396,21 +2396,25 @@
   "packing": [
     {
       "name": "Normal Box",
+      "price": "Free",
       "image": "media/packing/p1.jpg",
-      "description": "A simple and elegant box included with every purchase\u2014ideal for everyday packaging."
+      "description": "A simple and elegant box included with every purchase...ideal for everyday packaging."
     },
     {
       "name": "Standard Box",
+      "price": "+150",
       "image": "media/packing/p2.jpg",
       "description": "A classic gift box with a refined finish...perfect for gifting or special occasions."
     },
     {
       "name": "Premium Box",
+      "price": "+300",
       "image": "media/packing/p3.jpg",
       "description": "A sleek and durable travel pouch...designed for protection and convenience on the go."
     },
     {
       "name": "Original Box",
+      "price": "+600",
       "image": "media/packing/p4.jpg",
       "description": "The brands signature packaging...stylish, protective, and designed to make a lasting impression."
     }

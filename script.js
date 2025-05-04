@@ -208,6 +208,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.innerHTML = `
                 <img src="${option.image || 'images/placeholder.jpg'}" alt="${option.name}">
                 <h3>${option.name}</h3>
+                 <p><strong>Charges: ${option.price}</strong></p>
                 <p>${option.description}</p>
             `;
             packingGrid.appendChild(card);
