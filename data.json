@@ -2443,6 +2443,18 @@
     {
       "question": "Is Cash on Delivery (COD) available?",
       "answer": "Yes, Cash on Delivery (COD) is available. To confirm your order, a 200 courier charge must be paid in advance. This amount is standard and non-refundable."
+    },
+    {
+      "question": "How long does delivery take?",
+      "answer": "Delivery usually takes  5-7working days, depending on your location."
+    },
+    {
+      "question": "Will anyone know it's a replica?",
+      "answer": "YOur first-copy watches are made to be visually identical to the original. Most people can't tell the difference unless they are experts."
+    },
+    {
+      "question": "Do you ship across India?",
+      "answer": "Yes, we offer *pan-India shipping"
     }
   ]
 }
