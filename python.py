@@ -34,36 +34,7 @@ def update_watches_data():
             "description": "The brands signature packaging...stylish, protective, and designed to make a lasting impression."
         }
     ],
-    "faq": [
-        {
-            "question": "What is your return policy?",
-            "answer": "We offer a 30-day return policy for unused products in their original packaging. Please check our full policy page for details."
-        },
-        {
-            "question": "Do you provide international shipping?",
-            "answer": "Yes, we ship worldwide. Shipping costs and times vary based on destination and selected service. Duties and taxes may apply."
-        },
-        {
-            "question": "Are the watches authentic?",
-            "answer": "Absolutely. We are an authorized dealer or source directly from reputable suppliers. All watches are 100% authentic and come with original manufacturer warranties where applicable."
-        },
-        {
-            "question": "How does the WhatsApp Inquiry work?",
-            "answer": "Clicking the 'WhatsApp Inquiry' button will open WhatsApp on your device with a pre-filled message including the watch ID you're interested in. Send the message to connect directly with our sales team."
-        },
-        {
-            "question": "Can I customize my watch?",
-            "answer": "Customization options vary by model. Please contact us for specific requests."
-        },
-        {
-            "question": "What if I receive a damaged product?",
-            "answer": "If you receive a damaged product, please contact us within 48 hours of delivery with photos of the damage. We will arrange for a replacement or refund."
-        },
-        {
-            "question": "How do I care for my watch?",
-            "answer": "To maintain your watch, avoid exposing it to extreme temperatures, chemicals, and magnetic fields. Regularly clean the strap and case with a soft cloth."
-        }
-    ]
+    "faq": []
         }
 
     # Read Excel file
