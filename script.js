@@ -47,8 +47,8 @@ document.addEventListener('DOMContentLoaded', () => {
             displayErrorMessage(packingGrid, "Could not load packing data.");
             displayErrorMessage(faqList, "Could not load FAQ data.");
             // Optionally hide filters if data fails
-             const filtersSection = document.querySelector('.filters');
-             if(filtersSection) filtersSection.style.display = 'none';
+            const filtersSection = document.querySelector('.filters');
+            if (filtersSection) filtersSection.style.display = 'none';
         }
     }
 
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     } else if (offer.toLowerCase() === 'popular') {
                         offersHTML += '<div class="offer-badge popular-badge">Popular</div>';
                     } else { // Generic badge for other offers
-                         offersHTML += `<div class="offer-badge">${offer}</div>`;
+                        offersHTML += `<div class="offer-badge">${offer}</div>`;
                     }
                 });
             }
@@ -155,14 +155,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Initialize Swiper for this card
             if (watch.media && watch.media.length > 0) {
-                 try {
+                try {
                     const swiperInstance = new Swiper(`#${swiperContainerId}`, {
                         loop: watch.media.length > 1, // Loop only if multiple items
                         navigation: {
                             nextEl: `#${swiperContainerId} .swiper-button-next`,
                             prevEl: `#${swiperContainerId} .swiper-button-prev`,
                         },
-                         // Attempt to play videos when they become visible (might need intersection observer for reliability)
+                        // Attempt to play videos when they become visible (might need intersection observer for reliability)
                         on: {
                             slideChangeTransitionEnd: function () {
                                 // Pause all videos in this swiper
@@ -170,19 +170,19 @@ document.addEventListener('DOMContentLoaded', () => {
                                 videos.forEach(v => v.pause());
                                 // Play video in active slide if it exists
                                 const activeSlideVideo = this.slides[this.activeIndex]?.querySelector('video');
-                                activeSlideVideo?.play().catch(()=>{}); // Muted autoplay usually allowed
+                                activeSlideVideo?.play().catch(() => { }); // Muted autoplay usually allowed
                             },
-                            init: function() {
+                            init: function () {
                                 // Play video in initial active slide if it exists
                                 const initialVideo = this.slides[this.activeIndex]?.querySelector('video');
-                                initialVideo?.play().catch(()=>{});
+                                initialVideo?.play().catch(() => { });
                             }
                         }
                     });
                     activeSwipers[swiperContainerId] = swiperInstance;
-                 } catch (e) {
-                     console.error(`Failed to initialize Swiper for ${swiperContainerId}:`, e);
-                 }
+                } catch (e) {
+                    console.error(`Failed to initialize Swiper for ${swiperContainerId}:`, e);
+                }
             }
         });
     }
@@ -215,10 +215,10 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-     function renderFaqs(faqs) {
+    function renderFaqs(faqs) {
         if (!faqList) return;
         faqList.innerHTML = '';
-         if (!faqs || faqs.length === 0) {
+        if (!faqs || faqs.length === 0) {
             faqList.innerHTML = '<p class="no-results">No frequently asked questions available.</p>'; return;
         }
         faqs.forEach(faq => {
@@ -235,7 +235,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-     function displayErrorMessage(container, message) {
+    function displayErrorMessage(container, message) {
         if (container) {
             container.innerHTML = `<p class="error-message">${message}</p>`;
         }
@@ -275,24 +275,40 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function applyFiltersAndSort() {
         let filteredWatches = [...allWatches];
-
+    
         const selectedBrand = brandFilterEl.value;
         const selectedColor = colorFilterEl.value;
         const selectedGender = genderFilterEl.value;
         const sortOrder = priceFilterEl.value;
-
+        const searchTerm = document.getElementById('watchesSearch').value.trim().toLowerCase();
+    
         // Apply filters
         if (selectedBrand) {
             filteredWatches = filteredWatches.filter(w => w.brand === selectedBrand);
         }
         if (selectedColor) {
-            // Check if the watch's colors array includes the selected color
             filteredWatches = filteredWatches.filter(w => w.colors && w.colors.includes(selectedColor));
         }
-         if (selectedGender) {
+        if (selectedGender) {
             filteredWatches = filteredWatches.filter(w => w.gender === selectedGender);
         }
-
+    
+        // Apply search filter
+        if (searchTerm) {
+            filteredWatches = filteredWatches.filter(watch => {
+                // Create search string from multiple fields
+                const searchString = `
+                    ${watch.title}
+                    ${watch.brand}
+                    ${watch.description}
+                    ${watch.colors?.join(' ')}
+                    ${watch.id}
+                `.toLowerCase();
+                
+                return searchString.includes(searchTerm);
+            });
+        }
+    
         // Apply sorting
         const getSortPrice = (watch) => watch.discountedPrice ?? watch.price;
         if (sortOrder === 'low') {
@@ -300,8 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (sortOrder === 'high') {
             filteredWatches.sort((a, b) => getSortPrice(b) - getSortPrice(a));
         }
-        // 'default' or "" order is the original fetched order
-
+    
         renderWatches(filteredWatches);
     }
 
@@ -345,7 +360,8 @@ document.addEventListener('DOMContentLoaded', () => {
             colorFilterEl.value = '';
             genderFilterEl.value = '';
             priceFilterEl.value = '';
-            applyFiltersAndSort(); // Re-apply default filters/sort
+            document.getElementById('watchesSearch').value = ''; // Clear search input
+            applyFiltersAndSort();
         });
 
         // Lightbox listeners (using event delegation on the watch grid)
@@ -367,7 +383,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 closeLightbox();
             }
         });
-         // Close lightbox with Escape key
+        // Close lightbox with Escape key
         document.addEventListener('keydown', (event) => {
             if (event.key === "Escape" && lightbox?.classList.contains('active')) {
                 closeLightbox();
@@ -395,6 +411,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
         });
+
+        const searchInput = document.getElementById('watchesSearch');
+        searchInput?.addEventListener('input', applyFiltersAndSort);
 
         // FAQ Accordion (already handled by <details> element)
         // If you wanted custom JS accordion:

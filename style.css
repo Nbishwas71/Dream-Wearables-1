@@ -735,3 +735,34 @@ a:hover {
         font-size: 1.1rem;
     }
 }
+
+
+.search {
+    max-width: 600px;
+    margin: 1rem auto;
+    position: relative;
+    padding-top: 1rem;
+}
+
+.search input {
+    width: 100%;
+    padding: 1rem 2rem;
+    border: 2px solid var(--primary);
+    border-radius: 30px;
+    font-size: 1rem;
+}
+
+
+.search input:focus {
+    border: 2px solid #2d3436;
+    outline: none;
+}
+
+.search i {
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--primary);
+    padding-top: 1rem;
+}
