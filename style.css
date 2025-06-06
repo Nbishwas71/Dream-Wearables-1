@@ -665,9 +665,19 @@ a:hover {
 
 
 /* --- Responsiveness --- */
-@media (min-width: 768px) {
+@media (min-width: 78px) {
     .watch-grid {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .filters {
+        gap: 5px;
+    }
+}
+
+@media (min-width: 768px) {
+    .watch-grid {
+        grid-template-columns: repeat(3, 1fr);
     }
 
     .filters {
@@ -728,11 +738,11 @@ a:hover {
 
     /* Adjust card height */
     .watch-card h3.watch-title {
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 
     .watch-card .price .discounted-price {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 }
 

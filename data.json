@@ -23,7 +23,9 @@
           "type": "video",
           "url": "media/watches_video/W001A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W002A",
@@ -42,7 +44,9 @@
           "type": "image",
           "url": "media/watches_image/W002A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W003A",
@@ -73,7 +77,9 @@
           "type": "video",
           "url": "media/watches_video/W003A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W004A",
@@ -98,7 +104,9 @@
           "type": "video",
           "url": "media/watches_video/W004A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W005A",
@@ -121,7 +129,9 @@
           "type": "video",
           "url": "media/watches_video/W005A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W006A",
@@ -146,7 +156,9 @@
           "type": "video",
           "url": "media/watches_video/W006A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W007A",
@@ -175,7 +187,9 @@
           "type": "image",
           "url": "media/watches_image/W007A2.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W008A",
@@ -197,7 +211,9 @@
           "type": "video",
           "url": "media/watches_video/W008A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W009A",
@@ -216,7 +232,9 @@
           "type": "image",
           "url": "media/watches_image/W009A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W010A",
@@ -236,7 +254,9 @@
           "type": "image",
           "url": "media/watches_image/W010A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W011A",
@@ -256,7 +276,9 @@
           "type": "image",
           "url": "media/watches_image/W011A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W012A",
@@ -278,7 +300,9 @@
           "type": "image",
           "url": "media/watches_image/W012A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W013A",
@@ -298,7 +322,9 @@
           "type": "image",
           "url": "media/watches_image/W013A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W014A",
@@ -321,7 +347,9 @@
           "type": "video",
           "url": "media/watches_video/W014A.mp4"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W015A",
@@ -341,7 +369,9 @@
           "type": "image",
           "url": "media/watches_image/W015A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W016A",
@@ -365,7 +395,9 @@
           "type": "image",
           "url": "media/watches_image/W016A1.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W017A",
@@ -386,7 +418,9 @@
           "type": "image",
           "url": "media/watches_image/W017A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W018A",
@@ -411,7 +445,9 @@
           "type": "video",
           "url": "media/watches_video/W018A.mp4"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W019A",
@@ -436,7 +472,9 @@
           "type": "video",
           "url": "media/watches_video/W019A.mp4"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W020A",
@@ -459,7 +497,9 @@
           "type": "video",
           "url": "media/watches_video/W020A.mp4"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W021A",
@@ -478,7 +518,9 @@
           "type": "image",
           "url": "media/watches_image/W021A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W022A",
@@ -497,7 +539,9 @@
           "type": "image",
           "url": "media/watches_image/W022A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W023A",
@@ -516,7 +560,9 @@
           "type": "image",
           "url": "media/watches_image/W023A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W024A",
@@ -535,7 +581,9 @@
           "type": "image",
           "url": "media/watches_image/W024A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W025A",
@@ -554,7 +602,9 @@
           "type": "image",
           "url": "media/watches_image/W025A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W026A",
@@ -572,7 +622,9 @@
           "type": "image",
           "url": "media/watches_image/W026A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W027A",
@@ -595,7 +647,9 @@
           "type": "image",
           "url": "media/watches_image/W027A1.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W028A",
@@ -618,7 +672,9 @@
           "type": "video",
           "url": "media/watches_video/W028A.mp4"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W029A",
@@ -641,7 +697,9 @@
           "type": "video",
           "url": "media/watches_video/W029A.mp4"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W030A",
@@ -660,7 +718,9 @@
           "type": "image",
           "url": "media/watches_image/W030A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W031A",
@@ -679,7 +739,9 @@
           "type": "image",
           "url": "media/watches_image/W031A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W032A",
@@ -702,7 +764,9 @@
           "type": "video",
           "url": "media/watches_video/W032A.mp4"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W033A",
@@ -721,7 +785,9 @@
           "type": "image",
           "url": "media/watches_image/W033A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W034A",
@@ -745,7 +811,9 @@
           "type": "video",
           "url": "media/watches_video/W034A.mp4"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W035A",
@@ -763,7 +831,9 @@
           "type": "image",
           "url": "media/watches_image/W035A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W036A",
@@ -781,7 +851,9 @@
           "type": "image",
           "url": "media/watches_image/W036A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W037A",
@@ -800,7 +872,9 @@
           "type": "image",
           "url": "media/watches_image/W037A.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Qutarz"
     },
     {
       "id": "W038A",
@@ -823,7 +897,9 @@
           "type": "image",
           "url": "media/watches_image/W038A1.jpg"
         }
-      ]
+      ],
+      "band": "leather",
+      "movement": "Automatic"
     },
     {
       "id": "W039A",
@@ -842,7 +918,9 @@
           "type": "image",
           "url": "media/watches_image/W039A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W040A",
@@ -861,7 +939,9 @@
           "type": "image",
           "url": "media/watches_image/W040A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W041A",
@@ -880,7 +960,9 @@
           "type": "image",
           "url": "media/watches_image/W041A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W042A",
@@ -904,7 +986,9 @@
           "type": "video",
           "url": "media/watches_video/W042A.mp4"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W043A",
@@ -922,7 +1006,9 @@
           "type": "image",
           "url": "media/watches_image/W043A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W044A",
@@ -943,7 +1029,9 @@
           "type": "image",
           "url": "media/watches_image/W044A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W045A",
@@ -962,7 +1050,9 @@
           "type": "image",
           "url": "media/watches_image/W045A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W046A",
@@ -982,7 +1072,9 @@
           "type": "image",
           "url": "media/watches_image/W046A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W047A",
@@ -1001,7 +1093,9 @@
           "type": "image",
           "url": "media/watches_image/W047A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W048A",
@@ -1020,7 +1114,9 @@
           "type": "image",
           "url": "media/watches_image/W048A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W049A",
@@ -1039,7 +1135,9 @@
           "type": "image",
           "url": "media/watches_image/W049A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W050A",
@@ -1057,7 +1155,9 @@
           "type": "image",
           "url": "media/watches_image/W050A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W051A",
@@ -1076,7 +1176,9 @@
           "type": "image",
           "url": "media/watches_image/W051A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W052A",
@@ -1094,7 +1196,9 @@
           "type": "image",
           "url": "media/watches_image/W052A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W053A",
@@ -1113,7 +1217,9 @@
           "type": "image",
           "url": "media/watches_image/W053A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W054A",
@@ -1132,7 +1238,9 @@
           "type": "image",
           "url": "media/watches_image/W054A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W055A",
@@ -1153,7 +1261,9 @@
           "type": "image",
           "url": "media/watches_image/W055A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W056A",
@@ -1172,7 +1282,9 @@
           "type": "image",
           "url": "media/watches_image/W056A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W057A",
@@ -1193,7 +1305,9 @@
           "type": "image",
           "url": "media/watches_image/W057A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W058A",
@@ -1213,7 +1327,9 @@
           "type": "image",
           "url": "media/watches_image/W058A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W059A",
@@ -1231,7 +1347,9 @@
           "type": "image",
           "url": "media/watches_image/W059A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W060A",
@@ -1250,7 +1368,9 @@
           "type": "image",
           "url": "media/watches_image/W060A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Automatic"
     },
     {
       "id": "W061A",
@@ -1271,7 +1391,9 @@
           "type": "image",
           "url": "media/watches_image/W061A.jpg"
         }
-      ]
+      ],
+      "band": "silicon",
+      "movement": "Qutarz"
     },
     {
       "id": "W062A",
@@ -1292,7 +1414,9 @@
           "type": "image",
           "url": "media/watches_image/W062A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W063A",
@@ -1311,7 +1435,9 @@
           "type": "image",
           "url": "media/watches_image/W063A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W064A",
@@ -1329,7 +1455,9 @@
           "type": "image",
           "url": "media/watches_image/W064A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W065A",
@@ -1347,7 +1475,9 @@
           "type": "image",
           "url": "media/watches_image/W065A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W066A",
@@ -1367,7 +1497,9 @@
           "type": "image",
           "url": "media/watches_image/W066A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W067A",
@@ -1388,7 +1520,9 @@
           "type": "image",
           "url": "media/watches_image/W067A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W068A",
@@ -1406,7 +1540,9 @@
           "type": "image",
           "url": "media/watches_image/W068A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W069A",
@@ -1425,7 +1561,9 @@
           "type": "image",
           "url": "media/watches_image/W069A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W070A",
@@ -1444,7 +1582,9 @@
           "type": "image",
           "url": "media/watches_image/W070A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W071A",
@@ -1467,7 +1607,9 @@
           "type": "image",
           "url": "media/watches_image/W071A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W072A",
@@ -1489,7 +1631,9 @@
           "type": "image",
           "url": "media/watches_image/W072A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W073A",
@@ -1512,7 +1656,9 @@
           "type": "image",
           "url": "media/watches_image/W073A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W074A",
@@ -1535,7 +1681,9 @@
           "type": "video",
           "url": "media/watches_video/W074A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W075A",
@@ -1558,7 +1706,9 @@
           "type": "image",
           "url": "media/watches_image/W075A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W076A",
@@ -1577,7 +1727,9 @@
           "type": "image",
           "url": "media/watches_image/W076A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W077A",
@@ -1600,7 +1752,9 @@
           "type": "video",
           "url": "media/watches_video/W077A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W078A",
@@ -1623,7 +1777,9 @@
           "type": "video",
           "url": "media/watches_video/W078A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W079A",
@@ -1647,7 +1803,9 @@
           "type": "video",
           "url": "media/watches_video/W079A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W080A",
@@ -1669,7 +1827,9 @@
           "type": "video",
           "url": "media/watches_video/W080A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W081A",
@@ -1691,7 +1851,9 @@
           "type": "video",
           "url": "media/watches_video/W081A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W082A",
@@ -1714,7 +1876,9 @@
           "type": "video",
           "url": "media/watches_video/W082A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W083A",
@@ -1733,7 +1897,9 @@
           "type": "image",
           "url": "media/watches_image/W083A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W084A",
@@ -1752,7 +1918,9 @@
           "type": "image",
           "url": "media/watches_image/W084A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W085A",
@@ -1770,7 +1938,9 @@
           "type": "image",
           "url": "media/watches_image/W085A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W086A",
@@ -1789,7 +1959,9 @@
           "type": "image",
           "url": "media/watches_image/W086A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W087A",
@@ -1809,7 +1981,9 @@
           "type": "image",
           "url": "media/watches_image/W087A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W088A",
@@ -1830,7 +2004,9 @@
           "type": "image",
           "url": "media/watches_image/W088A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W089A",
@@ -1849,7 +2025,9 @@
           "type": "image",
           "url": "media/watches_image/W089A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W090A",
@@ -1867,7 +2045,9 @@
           "type": "image",
           "url": "media/watches_image/W090A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W091A",
@@ -1886,7 +2066,9 @@
           "type": "image",
           "url": "media/watches_image/W091A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W092A",
@@ -1905,7 +2087,9 @@
           "type": "image",
           "url": "media/watches_image/W092A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W093A",
@@ -1928,7 +2112,9 @@
           "type": "video",
           "url": "media/watches_video/W093A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W094A",
@@ -1951,7 +2137,9 @@
           "type": "video",
           "url": "media/watches_video/W094A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W095A",
@@ -1973,7 +2161,9 @@
           "type": "video",
           "url": "media/watches_video/W095A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W096A",
@@ -1996,7 +2186,9 @@
           "type": "video",
           "url": "media/watches_video/W096A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W097A",
@@ -2019,7 +2211,9 @@
           "type": "video",
           "url": "media/watches_video/W097A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W098A",
@@ -2037,7 +2231,9 @@
           "type": "image",
           "url": "media/watches_image/W098A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W099A",
@@ -2055,7 +2251,9 @@
           "type": "image",
           "url": "media/watches_image/W099A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W100A",
@@ -2073,7 +2271,9 @@
           "type": "image",
           "url": "media/watches_image/W100A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W101A",
@@ -2095,7 +2295,9 @@
           "type": "video",
           "url": "media/watches_video/W101A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W102A",
@@ -2114,7 +2316,9 @@
           "type": "image",
           "url": "media/watches_image/W102A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W103A",
@@ -2135,7 +2339,9 @@
           "type": "image",
           "url": "media/watches_image/W103A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W104A",
@@ -2154,7 +2360,9 @@
           "type": "image",
           "url": "media/watches_image/W104A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W105A",
@@ -2180,7 +2388,9 @@
           "type": "video",
           "url": "media/watches_video/W105A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W106A",
@@ -2207,7 +2417,9 @@
           "type": "video",
           "url": "media/watches_video/W106A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W107A",
@@ -2233,7 +2445,9 @@
           "type": "video",
           "url": "media/watches_video/W107A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W108A",
@@ -2260,7 +2474,9 @@
           "type": "video",
           "url": "media/watches_video/W108A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W109A",
@@ -2282,7 +2498,9 @@
           "type": "image",
           "url": "media/watches_image/W109A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W110A",
@@ -2301,7 +2519,9 @@
           "type": "image",
           "url": "media/watches_image/W110A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W111A",
@@ -2323,7 +2543,9 @@
           "type": "image",
           "url": "media/watches_image/W111A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W112A",
@@ -2345,7 +2567,9 @@
           "type": "image",
           "url": "media/watches_image/W112A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W113A",
@@ -2367,7 +2591,9 @@
           "type": "image",
           "url": "media/watches_image/W113A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W114A",
@@ -2390,7 +2616,9 @@
           "type": "image",
           "url": "media/watches_image/W114A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W115A",
@@ -2409,7 +2637,9 @@
           "type": "image",
           "url": "media/watches_image/W115A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W116A",
@@ -2428,7 +2658,9 @@
           "type": "image",
           "url": "media/watches_image/W116A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W117A",
@@ -2446,7 +2678,9 @@
           "type": "image",
           "url": "media/watches_image/W117A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W118A",
@@ -2466,7 +2700,9 @@
           "type": "image",
           "url": "media/watches_image/W118A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W119A",
@@ -2489,7 +2725,9 @@
           "type": "image",
           "url": "media/watches_image/W119A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W120A",
@@ -2511,7 +2749,9 @@
           "type": "video",
           "url": "media/watches_video/W120A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W121A",
@@ -2530,7 +2770,9 @@
           "type": "image",
           "url": "media/watches_image/W121A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W122A",
@@ -2553,7 +2795,9 @@
           "type": "video",
           "url": "media/watches_video/W122A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W123A",
@@ -2573,7 +2817,9 @@
           "type": "image",
           "url": "media/watches_image/W123A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W124A",
@@ -2592,7 +2838,9 @@
           "type": "image",
           "url": "media/watches_image/W124A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W125A",
@@ -2612,7 +2860,9 @@
           "type": "image",
           "url": "media/watches_image/W125A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W126A",
@@ -2631,7 +2881,9 @@
           "type": "image",
           "url": "media/watches_image/W126A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W127A",
@@ -2649,7 +2901,9 @@
           "type": "image",
           "url": "media/watches_image/W127A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W128A",
@@ -2668,7 +2922,9 @@
           "type": "image",
           "url": "media/watches_image/W128A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W129A",
@@ -2690,7 +2946,9 @@
           "type": "video",
           "url": "media/watches_video/W129A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W130A",
@@ -2709,7 +2967,9 @@
           "type": "image",
           "url": "media/watches_image/W130A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W131A",
@@ -2732,7 +2992,9 @@
           "type": "video",
           "url": "media/watches_video/W131A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W132A",
@@ -2755,7 +3017,9 @@
           "type": "video",
           "url": "media/watches_video/W132A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W133A",
@@ -2778,7 +3042,9 @@
           "type": "video",
           "url": "media/watches_video/W133A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W134A",
@@ -2797,7 +3063,9 @@
           "type": "image",
           "url": "media/watches_image/W134A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W135A",
@@ -2816,7 +3084,9 @@
           "type": "image",
           "url": "media/watches_image/W135A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W136A",
@@ -2838,7 +3108,9 @@
           "type": "video",
           "url": "media/watches_video/W136A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W137A",
@@ -2861,7 +3133,9 @@
           "type": "image",
           "url": "media/watches_image/W137A1.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W138A",
@@ -2880,7 +3154,9 @@
           "type": "image",
           "url": "media/watches_image/W138A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
     },
     {
       "id": "W139A",
@@ -2899,7 +3175,9 @@
           "type": "image",
           "url": "media/watches_image/W139A.jpg"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     },
     {
       "id": "W140A",
@@ -2926,7 +3204,37 @@
           "type": "video",
           "url": "media/watches_video/W140A.mp4"
         }
-      ]
+      ],
+      "band": "chain",
+      "movement": "Automatic"
+    },
+    {
+      "id": "W141A",
+      "brand": "Diesel",
+      "title": "Bar Mega Chief",
+      "price": 5999,
+      "discountedPrice": 1899,
+      "colors": [
+        "BLACK"
+      ],
+      "gender": "MALE",
+      "offers": [],
+      "media": [
+        {
+          "type": "image",
+          "url": "media/watches_image/W141A.jpg"
+        },
+        {
+          "type": "image",
+          "url": "media/watches_image/W141A1.jpg"
+        },
+        {
+          "type": "video",
+          "url": "media/watches_video/W141A.mp4"
+        }
+      ],
+      "band": "chain",
+      "movement": "Qutarz"
     }
   ],
   "packing": [

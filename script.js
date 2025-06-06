@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const packingGrid = document.getElementById('packing-grid');
     const faqList = document.getElementById('faq-list');
     const brandFilterEl = document.getElementById('filter-brand');
+    const movementFilterEl = document.getElementById('filter-movement');
+    const bandFilterEl = document.getElementById('filter-band');
     const colorFilterEl = document.getElementById('filter-color');
     const genderFilterEl = document.getElementById('filter-gender');
     const priceFilterEl = document.getElementById('filter-price');
@@ -244,16 +246,20 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Filter Logic ---
 
     function populateFilters(watches) {
-        if (!brandFilterEl || !colorFilterEl || !genderFilterEl) return;
+        if (!brandFilterEl || !bandFilterEl || !movementFilterEl || !colorFilterEl || !genderFilterEl) return;
 
         const brands = [...new Set(watches.map(w => w.brand))].sort();
         // Use flatMap to get all colors from the arrays, then Set for uniqueness
         const colors = [...new Set(watches.flatMap(w => w.colors || []))].sort();
+        const bands = [...new Set(watches.map(w => w.band))].sort();
+        const movements = [...new Set(watches.map(w => w.movement))].sort();
         // Genders could be predefined or extracted like brands/colors
         // const genders = [...new Set(watches.map(w => w.gender))].sort();
 
         populateSelect(brandFilterEl, brands);
         populateSelect(colorFilterEl, colors);
+        populateSelect(bandFilterEl, bands);
+        populateSelect(movementFilterEl, movements);
         // populateSelect(genderFilterEl, genders); // Assuming static gender options in HTML are okay
     }
 
@@ -277,6 +283,8 @@ document.addEventListener('DOMContentLoaded', () => {
         let filteredWatches = [...allWatches];
     
         const selectedBrand = brandFilterEl.value;
+        const selectedBand = bandFilterEl.value;
+        const selectedMovement = movementFilterEl.value;
         const selectedColor = colorFilterEl.value;
         const selectedGender = genderFilterEl.value;
         const sortOrder = priceFilterEl.value;
@@ -292,6 +300,12 @@ document.addEventListener('DOMContentLoaded', () => {
         if (selectedGender) {
             filteredWatches = filteredWatches.filter(w => w.gender === selectedGender);
         }
+        if (selectedBand) {
+            filteredWatches = filteredWatches.filter(w => w.band === selectedBand);
+        }
+        if (selectedMovement) {
+            filteredWatches = filteredWatches.filter(w => w.movement === selectedMovement);
+        }
     
         // Apply search filter
         if (searchTerm) {
@@ -300,6 +314,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const searchString = `
                     ${watch.title}
                     ${watch.brand}
+                    ${watch.band}
+                    ${watch.movement}
                     ${watch.description}
                     ${watch.colors?.join(' ')}
                     ${watch.id}
@@ -350,13 +366,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function setupEventListeners() {
         // Filter listeners
-        [brandFilterEl, colorFilterEl, genderFilterEl, priceFilterEl].forEach(filter => {
+        [brandFilterEl, bandFilterEl, movementFilterEl, colorFilterEl, genderFilterEl, priceFilterEl].forEach(filter => {
             filter?.addEventListener('change', applyFiltersAndSort);
         });
 
         // Reset button listener
         resetFiltersBtn?.addEventListener('click', () => {
             brandFilterEl.value = '';
+            bandFilterEl.value = '';
+            movementFilterEl.value = '';
             colorFilterEl.value = '';
             genderFilterEl.value = '';
             priceFilterEl.value = '';

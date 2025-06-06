@@ -44,7 +44,8 @@ def update_watches_data():
         # Validate required columns
         required_columns = [
             'Code', 'Brand', 'Title', 'Price',
-            'Discounted Price', 'Gender', 'Colour', 'Photo & Videos'
+            'Discounted Price', 'Gender', 'Colour', 
+            'Photo & Videos', 'Band' , 'movement'
         ]
         
         missing_cols = [col for col in required_columns if col not in df.columns]
@@ -87,7 +88,9 @@ def update_watches_data():
                 "colors": [c.strip() for c in str(row['Colour']).split(',')],
                 "gender": row['Gender'],
                 "offers": [o.strip() for o in str(row.get('Offers', '')).split(',') if o.strip()],
-                "media": media
+                "media": media,
+                "band":row['Band'],
+                'movement':row['movement']
             }
             new_watches.append(watch)
             
